@@ -1,14 +1,81 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "links": [
+    {
+      "name": "dzone",
+      "url": "https://dzone.com/",
+      "id": 10,
+      "vote": 1,
+      "modifiedDate": 1601553085431
+    },
+    {
+      "name": "code project",
+      "url": "https://www.codeproject.com/",
+      "id": 9,
+      "vote": 1,
+      "modifiedDate": 1601553083670
+    },
+    {
+      "name": "sitepoint",
+      "url": "https://www.sitepoint.com/",
+      "id": 8,
+      "vote": 3,
+      "modifiedDate": 1601553086558
+    },
+    {
+      "name": "code avengers",
+      "url": "https://www.codeavengers.com/",
+      "id": 7,
+      "vote": 1,
+      "modifiedDate": 1601553084325
+    },
+    {
+      "name": "css tricks",
+      "url": "https://css-tricks.com/",
+      "id": 6,
+      "vote": 0,
+      "modifiedDate": 1601552849918
+    },
+    {
+      "name": "medium",
+      "url": "https://medium.com/",
+      "id": 5,
+      "vote": 0,
+      "modifiedDate": 1601552786693
+    },
+    {
+      "name": "codeburst",
+      "url": "https://codeburst.io/",
+      "id": 4,
+      "vote": 0,
+      "modifiedDate": 1601552774278
+    },
+    {
+      "name": "skillcrush",
+      "url": "https://skillcrush.com/",
+      "id": 3,
+      "vote": 0,
+      "modifiedDate": 1601552751622
+    },
+    {
+      "name": "quora",
+      "url": "https://www.quora.com/",
+      "id": 2,
+      "vote": 0,
+      "modifiedDate": 1601552723655
+    },
+    {
+      "name": "stackoverflow",
+      "url": "www.stackoverflow.com",
+      "id": 1,
+      "vote": 0,
+      "modifiedDate": 1601551727213
+    },
+    {
+      "name": "reddit",
+      "url": "reddit.com",
+      "id": 0,
+      "vote": 0,
+      "modifiedDate": 1601551731876
+    }
+  ]
 }
